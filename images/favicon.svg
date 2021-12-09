@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="35px" viewBox="0 0 32 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>globalnav_apple_image__b5er5ngrzxqq_large</title>
+    <defs>
+        <filter x="-92.5%" y="-75.3%" width="285.0%" height="250.6%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="globalnav_apple_image__b5er5ngrzxqq_large" filter="url(#filter-1)" transform="translate(9.514000, 9.088900)" fill="#D8D8D8" fill-rule="nonzero">
+            <path d="M10.8341,8.4689 C10.8341,10.834 12.91,11.6706 12.972,11.6912 C12.9617,11.7428 12.6415,12.8376 11.8772,13.953 C11.1956,14.9342 10.4829,15.9153 9.3985,15.9153 C8.3141,15.9153 8.0352,15.2853 6.7855,15.2853 C5.5668,15.2853 5.133,15.936 4.1415,15.936 C3.15,15.936 2.458,15.0271 1.6628,13.9117 C0.7436,12.6 0,10.5654 0,8.6341 C0,5.5357 2.014,3.8935 3.9969,3.8935 C5.0504,3.8935 5.9282,4.5855 6.5892,4.5855 C7.2192,4.5855 8.2004,3.8522 9.3984,3.8522 C9.8529,3.8522 11.4848,3.8937 12.5589,5.4325 C12.4659,5.5048 10.8341,6.424 10.8341,8.4689 Z M9.6774,0.3202 C9.6774,0.2066 9.6671,0.093 9.6464,0 C8.8408,0.031 7.8803,0.5371 7.3019,1.2084 C6.8475,1.7248 6.424,2.5407 6.424,3.367 C6.424,3.4909 6.4447,3.6149 6.455,3.6562 C6.5066,3.6665 6.5893,3.6769 6.6719,3.6769 C7.3949,3.6768 8.3037,3.1914 8.8305,2.5407 C9.3262,1.952 9.6774,1.1361 9.6774,0.3202 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>
